@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Publications>
+	<publications
+		NAME ="Коваль Юрій Віталійович"
+		FACULTY="ФКНК"
+		DEPARTMENT="ТК"
+		DATA="Вступ до програмування мовою С++. Організація обчислень.">
+	</publications>
+	<publications
+		NAME ="Сидорова Ольга Петрівна"
+		FACULTY="ФІТ"
+		DEPARTMENT="ШІ"
+		DATA="Нові технології штучного інтелекту">
+	</publications>
+	<publications
+		NAME ="Григоренко Олександр Миколайович"
+		FACULTY="ННІЦ"
+		DEPARTMENT="Кафедра хірургії"
+		DATA="Сучасні методи хірургічного лікування">
+	</publications>
+	</Publications>
